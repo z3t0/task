@@ -7,5 +7,9 @@ module.exports = function(options) {
 
 function Task(opts) {
     this.name = opts.name
+    this.description = opts.description
+    this.date = opts.date || null
+    this.list = opts.list || "default"
+
 }
 

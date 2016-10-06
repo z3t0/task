@@ -22,6 +22,7 @@
   "homepage": "https://github.com/z3t0/task#readme",
   "dependencies": {
     "argparse": "^1.0.9",
-    "chrono-node": "^1.2.4"
+    "chrono-node": "^1.2.4",
+    "jsonfile": "^2.4.0"
   }
 }
