@@ -23,6 +23,7 @@
   "dependencies": {
     "argparse": "^1.0.9",
     "chrono-node": "^1.2.4",
-    "jsonfile": "^2.4.0"
+    "jsonfile": "^2.4.0",
+    "prompt-console": "^1.0.11"
   }
 }

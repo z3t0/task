@@ -71,7 +71,7 @@ if (args.delete !== null) {
     console.log("Delete task")
     arg = args.delete
 
-    data.delte_task(task(
+    data.delete_task(task(
         {
             name: arg[0]
         }
@@ -84,6 +84,7 @@ if (args.print == true) {
     console.log(args)
 
     console.log("Internal Database:")
+    data.print()
 }
 
 // Helper Utilities
