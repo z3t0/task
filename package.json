@@ -1,0 +1,27 @@
+{
+  "name": "task",
+  "version": "1.0.0",
+  "description": "intuitive task management",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/z3t0/task.git"
+  },
+  "keywords": [
+    "app",
+    "task"
+  ],
+  "author": "Rafi Khan",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/z3t0/task/issues"
+  },
+  "homepage": "https://github.com/z3t0/task#readme",
+  "dependencies": {
+    "argparse": "^1.0.9",
+    "chrono-node": "^1.2.4"
+  }
+}
